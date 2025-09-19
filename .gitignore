@@ -1,0 +1,6 @@
+venv
+*client-config.json
+*config-secret
+*env_vars.bash
+__pycache__
+test_plz.py
